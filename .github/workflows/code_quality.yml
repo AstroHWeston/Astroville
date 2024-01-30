@@ -9,7 +9,6 @@ on:
 
 jobs:
   qodana:
-    needs: build
     runs-on: ubuntu-latest
     permissions:
       contents: write
