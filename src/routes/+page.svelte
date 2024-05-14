@@ -7,7 +7,7 @@
 <body>
 <h1> Welcome to Astro's den </h1>
 <hr>
-<h2>Please check out the other pages on this website such as <a href="https://astrohweston.xyz/pgp">PGP</a>, where you can find my public PGP key, as well as a little bit more <a href="https://astrohweston.xyz/about">about me</a>.</h2>
+<h2>Please check out the other pages on this website such as <a href="https://astrohweston.xyz/pgp">PGP</a>, where you can find my public PGP key. You can also check my <a href="https://astrohweston.xyz/about">about me</a>!</h2>
 <iframe src="https://status.astrohweston.xyz/badge?theme=light" width="500" height="60" frameborder="0" scrolling="no"></iframe>
 <p> meow meow hooyah </p>
 <pre>
