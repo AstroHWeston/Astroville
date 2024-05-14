@@ -1,26 +1,26 @@
-<svelte:head>
-	<title>About</title>
-	<meta name="description" content="About this app" />
-</svelte:head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title> NERD </title>
+</head>
+<body>
+<h1> About me </h1>
+<hr>
+<h2> Who is this guy bro </h2>
+<pre>
+	Hi, I'm Astro. I am active in many online communities, most notably Quantum Science Inc, a Roblox Sci-fi group.
+	I do programming in my free time. I class myself as a back-end developer, however, as you can see, I can do some front-end work as well... If I actually care enough to do something.
+	Furthermore, I have recently started getting into, and developing my skills in cryptography and steganography.
+</pre>
 
-<div class="text-column">
-	<h1>About this app</h1>
-
-	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
-
-	<pre>npm create svelte@latest</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
-	</p>
-
-	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
-	</p>
-</div>
+<h2> How can I get in touch with bro? </h2>
+<pre>
+	I have many points of contacts. I usually use discord to communicate with everyone, however I do have a public email as well.
+	My discord username is <b>astrohweston</b>. You can find most of my socials there.
+	My email is <b>me@astrohweston.xyz</b>.
+</pre>
+<hr>
+<p> Thank you for reading! </p>
+</body>
+</html>

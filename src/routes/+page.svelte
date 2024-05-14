@@ -1,59 +1,25 @@
-<script>
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
-</script>
-
-<svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
-</svelte:head>
-
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
-
-		to your new<br />SvelteKit app
-	</h1>
-
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
-	<Counter />
-</section>
-
-<style>
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title> why are you here bro </title>
+</head>
+<body>
+<h1> Welcome to Astro's den </h1>
+<hr>
+<h2>Please check out the other pages on this website such as <a href="https://astrohweston.xyz/pgp">PGP</a>, where you can find my public PGP key, as well as a little bit more <a href="https://astrohweston.xyz/about">about me</a>.</h2>
+<iframe src="https://status.astrohweston.xyz/badge?theme=light" width="500" height="60" frameborder="0" scrolling="no"></iframe>
+<p> meow meow hooyah </p>
+<pre>
+..........／＞  フ
+.........|  _  _ |
+.......／` ミ＿xノ
+....../     |
+...../  ヽ   ﾉ
+....│  | | |
+／￣|   | | |
+| (￣ヽ＿_ヽ_)__)
+.＼二つ
+</pre>
+</body>
+</html>
