@@ -21,5 +21,7 @@
 | (￣ヽ＿_ヽ_)__)
 .＼二つ
 </pre>
+<p> SAY HI TO STRIKE!!!! </p>
+<img src="https://cdn.astrohweston.xyz/u/dUKXiB.png" alt="Goof" style="width:1150px;height:600px;">
 </body>
 </html>
